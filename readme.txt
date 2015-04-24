@@ -5,4 +5,6 @@ Git tracks changes of files.
 Creating a new branch is quick.
 Creating a new branch is quick and simple.
 add merge
+and stash
+install git again in order to make cmd windows can run git directives
 
